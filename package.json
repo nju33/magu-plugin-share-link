@@ -1,6 +1,6 @@
 {
   "name": "magu-plugin-share-link",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Magu plugin that generate a link for sharing or introduction",
   "repository": "nju33/magu-plugin-share-link",
   "main": "./magu-plugin-share-link.js",
